@@ -1,0 +1,312 @@
+[
+  {
+    "committente": {
+      "codice_fiscale_sa": "80188230587",
+      "denominazione_sa": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI"
+    },
+    "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara",
+    "cpv": "99999999",
+    "importo_complessivo_gara": 39000,
+    "oggetto_gara": "servizio supporto giuridico",
+    "items": [
+      {
+        "cig": "B05F37C9B9",
+        "aggiudicatari_ad": [
+          {
+            "importo": 39000,
+            "soggetti": [
+              {
+                "codice_fiscale": "RNRFNC70D10A662E",
+                "denominazione": "AVV. FRANCESCO RANIERI"
+              }
+            ],
+            "oggetto_lotto": "SUPPORTO GIURIDICO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "committente": {
+      "codice_fiscale_sa": "82000710150",
+      "denominazione_sa": "COMUNE DI BAREGGIO"
+    },
+    "tipo_procedura_aggiudicazione": "Altra procedura a fase unica",
+    "cpv": "99999999",
+    "importo_complessivo_gara": 565831.01,
+    "oggetto_gara": "RINNOVO AFFIDAMENTO DEI SERVIZI DI MANUTENZIONE DEL PATRIMONIO VERDE ED ARBOREO",
+    "items": [
+      {
+        "cig": "B00897C64D",
+        "aggiudicatari_ad": [
+          {
+            "importo": 565831.01,
+            "soggetti": [
+              {
+                "codice_fiscale": "06772410582",
+                "denominazione": "TERRITORIO STRADE AMBIENTE SRL"
+              }
+            ],
+            "oggetto_lotto": "RINNOVO AFFIDAMENTO DEI SERVIZI DI MANUTENZIONE DEL PATRIMONIO VERDE ED ARBOREO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "committente": {
+      "codice_fiscale_sa": "00461850836",
+      "denominazione_sa": "COMUNE DI CAPRILEONE"
+    },
+    "tipo_procedura_aggiudicazione": "Altra procedura a fase unica",
+    "cpv": "99999999",
+    "importo_complessivo_gara": 90909.09,
+    "oggetto_gara": "servizio spazzamento, raccolta e trasporto allo smaltimento dei rifiuti solidi urbani differenziati ed indifferenziati, compresi quelli assimilati ed altri servizi di igiene pubblica",
+    "items": [
+      {
+        "cig": "B0A3EB552E",
+        "aggiudicatari_ad": [
+          {
+            "importo": 90909.09,
+            "soggetti": [
+              {
+                "codice_fiscale": "02017710837",
+                "denominazione": "MULTIECOPLAST S.R.L."
+              }
+            ],
+            "oggetto_lotto": "servizio spazzamento, raccolta e trasporto allo smaltimento dei rifiuti solidi urbani differenziati ed indifferenziati, compresi quelli assimilati ed altri servizi di igiene pubblica"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "committente": {
+      "codice_fiscale_sa": "80002630814",
+      "denominazione_sa": "COMUNE DI ALCAMO"
+    },
+    "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara",
+    "cpv": "99999999",
+    "importo_complessivo_gara": 77310,
+    "oggetto_gara": "SERVIZIO DI INTERMEDIAZIONE, TRASPORTO E CONFERIMENTO RIFIUTI CODICE CER 20.03.06 PROVENIENTI DAL COMUNE DI ALCAMO PER L?ANNO 2024",
+    "items": [
+      {
+        "cig": "B0161C958C",
+        "aggiudicatari_ad": [
+          {
+            "importo": 77310,
+            "soggetti": [
+              {
+                "codice_fiscale": "02613660816",
+                "denominazione": "ENERGIAMBIENTE SRL"
+              }
+            ],
+            "oggetto_lotto": "SERVIZIO DI INTERMEDIAZIONE, TRASPORTO E CONFERIMENTO RIFIUTI CODICE CER 20.03.06 PROVENIENTI DAL COMUNE DI ALCAMO PER L?ANNO 2024"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "committente": {
+      "codice_fiscale_sa": "05017630152",
+      "denominazione_sa": "ARIA SPA"
+    },
+    "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara",
+    "cpv": "99999999",
+    "importo_complessivo_gara": 197200,
+    "oggetto_gara": "ARIA_2022_026.6/L01R",
+    "items": [
+      {
+        "cig": "B0CF40159C",
+        "aggiudicatari_ad": [
+          {
+            "importo": 197200,
+            "soggetti": [
+              {
+                "codice_fiscale": "10051170156",
+                "denominazione": "AMGEN S.r.l. a socio unico"
+              }
+            ],
+            "oggetto_lotto": "ARIA_2022_026.6R/L01R"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "committente": {
+      "codice_fiscale_sa": "80007970876",
+      "denominazione_sa": "CONVITTO NAZ.LE M.CUTELLI-CATANIA"
+    },
+    "tipo_procedura_aggiudicazione": "Negoziata senza previa indizione di gara",
+    "cpv": "99999999",
+    "importo_complessivo_gara": 7930,
+    "oggetto_gara": "LAVORI URGENTI BAGNO RETTORATO",
+    "items": [
+      {
+        "cig": "B0B624E77B",
+        "aggiudicatari_ad": [
+          {
+            "importo": 7930,
+            "soggetti": [
+              {
+                "codice_fiscale": "04021780871",
+                "denominazione": "JONICA COSTRUZIONI E RISTRUTTURAZIONI"
+              }
+            ],
+            "oggetto_lotto": "LAVORI DI MANUTENZIONE"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "committente": {
+      "codice_fiscale_sa": "06322711216",
+      "denominazione_sa": "AZIENDA SANITARIA LOCALE NA3 SUD"
+    },
+    "tipo_procedura_aggiudicazione": "Tipo di procedura non definito",
+    "cpv": "99999999",
+    "importo_complessivo_gara": 85414.8,
+    "oggetto_gara": "LDI - PROCEDURA NEGOZIATA SENZA PREVIA PUBBLICAZIONE DEL BANDO DI CUI ALL'ART. 50, CO.1, LETT. E), DEL D.LGS. 36/2023 AI FINI DELL'AFFIDAMENTO DELLA FORNITURA DI PROTESI PER RICOSTRUZIONI CRANIOFACCIALI IN POLIETILENE",
+    "items": [
+      {
+        "cig": "B038DFE4AB",
+        "comunicazione_annullamento_revoca": "Non sono pervenuti offerte, domande di partecipazione o progetti"
+      }
+    ]
+  },
+  {
+    "committente": {
+      "codice_fiscale_sa": "97712420583",
+      "denominazione_sa": "ISTITUTO COMPRENSIVO STATALE PARCO DEGLI ACQUEDOTTI"
+    },
+    "tipo_procedura_aggiudicazione": "Dialogo competitivo",
+    "cpv": "99999999",
+    "importo_complessivo_gara": 171450,
+    "oggetto_gara": "CAMPI SCUOLA SECONDARIA PRIMO GRADO E PRIMARIA",
+    "items": [
+      {
+        "cig": "B0011A83AB",
+        "aggiudicatari_ad": [
+          {
+            "importo": 29700,
+            "soggetti": [
+              {
+                "codice_fiscale": "03813270273",
+                "denominazione": "RADUNI SPORTIVI S.R.L."
+              }
+            ],
+            "oggetto_lotto": "Nome lotto"
+          }
+        ]
+      },
+      {
+        "cig": "B0011A947E",
+        "aggiudicatari_ad": [
+          {
+            "importo": 29700,
+            "soggetti": [
+              {
+                "codice_fiscale": "03813270273",
+                "denominazione": "RADUNI SPORTIVI S.R.L."
+              }
+            ],
+            "oggetto_lotto": "Nome lotto"
+          },
+          {
+            "importo": 29700,
+            "soggetti": [
+              {
+                "codice_fiscale": "03813270273",
+                "denominazione": "RADUNI SPORTIVI S.R.L."
+              }
+            ],
+            "oggetto_lotto": "Nome lotto"
+          }
+        ]
+      },
+      {
+        "cig": "B0011AA551",
+        "aggiudicatari_ad": [
+          {
+            "importo": 29700,
+            "soggetti": [
+              {
+                "codice_fiscale": "03813270273",
+                "denominazione": "RADUNI SPORTIVI S.R.L."
+              }
+            ],
+            "oggetto_lotto": "Nome lotto"
+          },
+          {
+            "importo": 29700,
+            "soggetti": [
+              {
+                "codice_fiscale": "03813270273",
+                "denominazione": "RADUNI SPORTIVI S.R.L."
+              }
+            ],
+            "oggetto_lotto": "Nome lotto"
+          }
+        ]
+      },
+      {
+        "cig": "B0011AB624",
+        "aggiudicatari_ad": [
+          {
+            "importo": 29700,
+            "soggetti": [
+              {
+                "codice_fiscale": "03813270273",
+                "denominazione": "RADUNI SPORTIVI S.R.L."
+              }
+            ],
+            "oggetto_lotto": "Nome lotto"
+          },
+          {
+            "importo": 29700,
+            "soggetti": [
+              {
+                "codice_fiscale": "03813270273",
+                "denominazione": "RADUNI SPORTIVI S.R.L."
+              }
+            ],
+            "oggetto_lotto": "Nome lotto"
+          }
+        ]
+      },
+      {
+        "cig": "B0011AC6F7",
+        "aggiudicatari_ad": [
+          {
+            "importo": 29700,
+            "soggetti": [
+              {
+                "codice_fiscale": "03813270273",
+                "denominazione": "RADUNI SPORTIVI S.R.L."
+              }
+            ],
+            "oggetto_lotto": "Nome lotto"
+          }
+        ]
+      },
+      {
+        "cig": "B0011AD7CA",
+        "aggiudicatari_ad": [
+          {
+            "importo": 29700,
+            "soggetti": [
+              {
+                "codice_fiscale": "03813270273",
+                "denominazione": "RADUNI SPORTIVI S.R.L."
+              }
+            ],
+            "oggetto_lotto": "Nome lotto"
+          }
+        ]
+      }
+    ]
+  }
+]

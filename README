@@ -1,0 +1,26 @@
+Introduzione
+Questo progetto si propone di recuperare dati da un'API remota, elaborarli e salvarli in un file JSON utilizzando Node.js. In particolare, i dati recuperati sono relativi a bandi di gara e appalti pubblici, e vengono estratti da una fonte pubblica attraverso richieste HTTP.
+
+Funzionalità Principali
+Il progetto presenta le seguenti funzionalità principali:
+
+Recupero dei Dati: L'applicazione effettua richieste HTTP a un'API remota per recuperare i dati relativi ai bandi di gara e appalti pubblici.
+Elaborazione dei Dati: I dati recuperati vengono elaborati e manipolati per estrarre informazioni rilevanti, come informazioni sul committente, sull'aggiudicatario e sugli oggetti delle gare.
+Integrazione Dati Aggiuntivi: Vengono effettuate ulteriori richieste a un'altra fonte dati per ottenere informazioni aggiuntive su ogni gara o appalto.
+Scrittura su File JSON: I dati elaborati vengono formattati e scritti su un file JSON per archiviarli o per ulteriori elaborazioni.
+
+Tecnologie Utilizzate
+Il progetto è realizzato utilizzando le seguenti tecnologie:
+
+Node.js: Ambiente di runtime JavaScript utilizzato per l'esecuzione del codice.
+axios: Libreria per effettuare richieste HTTP.
+fs: Modulo di Node.js per gestire operazioni di input/output su file.
+dotenv: Modulo per caricare variabili d'ambiente da un file .env.
+
+Struttura del Codice
+Il codice è organizzato nei seguenti file:
+
+index.ts: File principale contenente il codice per recuperare, elaborare e salvare i dati.
+notice.ts: File contenente le definizioni di interfaccia TypeScript per modellare la struttura dei dati dei bandi di gara e appalti pubblici.
+
+
